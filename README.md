@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zoran-hristov
 - 👀 I’m interested in MLOps
 - 🌱 I’m currently learning PyTorch in deepth
-- 💞️ I’m looking to collaborate on DL projects
+- 💞️ I’m looking to collaborate on DL and MLOps projects
 - 📫 zoran@adaleo.nl
 
 <!---
